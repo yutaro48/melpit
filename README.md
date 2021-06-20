@@ -30,3 +30,4 @@ Pay.jpと連携して決済処理を実装します。
 https://github.com/alexeymezenin/laravel-best-practices/blob/master/japanese.md
 
 * アーキテクチャ設計を重視する
+* https://zenn.dev/mpyw/articles/ce7d09eb6d8117
